@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/indranandjha1993/gowiki/services"
+	"./src/http/wiki"
 )
 
 func main() {
-	fmt.Println(services.Greet2())
+	fmt.Println(wiki.Greet2())
 }
