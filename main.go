@@ -1,8 +1,9 @@
-package http
+package main
 
 import (
 	"fmt"
-	"github.com/indranandjha/gowiki/service"
+
+	"github.com/indranandjha1993/gowiki/services"
 )
 
 func main() {
