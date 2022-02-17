@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./src/http/wiki"
+	"github.com/indranandjha1993/wiki"
 )
 
 func main() {
